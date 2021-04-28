@@ -1,24 +1,16 @@
-# music
+# Music-App
 
-## Project setup
+I saw a really cool design for a music app while learning tailwind so i decided to recreate it from scratch after finishing the design i decided to use deezer's api to fetch some data its a simple app that only focuses on responsive design and axios.
+### Installing Vue
 ```
-npm install
+npm install -g @vue/cli
 ```
-
-### Compiles and hot-reloads for development
+### Installing Tailwind and other requirments
+```
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9 
+```
+### Run server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
