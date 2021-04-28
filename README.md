@@ -18,3 +18,4 @@ npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefi
 npm run serve
 ```
 
+the design isnt mine all rights go to owner of the original design which can be found at https://tunein.netlify.app/
